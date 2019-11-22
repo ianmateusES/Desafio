@@ -2,7 +2,8 @@
 Desafio do Dev.Academy
 
 Modelos de predição utilizados: 'RandomForest', 'KNN', 'Bayesian', 'LinearRegression';
-Para cada analise de predição no final plot um grafico mostrando qual modelo é mais eficiente.
+
+Para cada analise de predição no final ploto um grafico mostrando qual modelo é mais eficiente.
 
 No desafio 2, fiz de duas maneiras: a primeira eu concatenei os datasets para ter mais dados de treino e realizei as predições,
 a segunda eu realizei separadamente as prediçoes dos datasets.
